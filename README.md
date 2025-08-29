@@ -46,7 +46,7 @@ CREATE TABLE userinfo (
 
 -- Check table data
 SELECT * FROM userinfo;
-screenshorts
+
 
 
 
