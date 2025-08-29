@@ -17,7 +17,13 @@ It includes a simple form to insert student details (Roll No, Name, Class, Addre
 ## 📂 Project Structure
 - `WebForm1.aspx` → UI design (Form with Roll No, Name, Class, Address, Save & Exit buttons, and Label).  
 - `WebForm1.aspx.cs` → Code-behind with ADO.NET logic.  
-- `userinfo` Database in SQL Server.  
+- `userinfo` Database in SQL Server.
+- <img width="1920" height="972" alt="2" src="https://github.com/user-attachments/assets/16ca1062-ad5b-4a4e-b865-b92669ee6884" />
+<img width="1915" height="964" alt="3" src="https://github.com/user-attachments/assets/1b1dc4d8-fd33-4aa2-8621-0b1bfa218efe" />
+<img width="999" height="726" alt="4" src="https://github.com/user-attachments/assets/081f2d6e-4cc0-4d11-8685-b3d8422f03f6" />
+
+
+
 
 ---
 
@@ -41,8 +47,6 @@ CREATE TABLE userinfo (
 -- Check table data
 SELECT * FROM userinfo;
 screenshorts
-<img width="1920" height="972" alt="2" src="https://github.com/user-attachments/assets/2d41a883-5804-4991-9ae1-8da156d50ac5" />
-<img width="1915" height="964" alt="3" src="https://github.com/user-attachments/assets/34bed96c-c093-41f6-ae26-a9e2f5e3b489" />
-<img width="999" height="726" alt="4" src="https://github.com/user-attachments/assets/5ef5ca6b-0c5d-42be-bac0-c88cb40f5e7e" />
+
 
 
